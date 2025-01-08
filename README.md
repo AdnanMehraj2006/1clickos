@@ -13,7 +13,7 @@ Welcome to **1ClickOS**! This is a simple yet powerful project designed to provi
 
 To install **1ClickOS**, follow these steps:
 
-1. Download the [latest version](https://adnanmehraj2006.github.io/1clickos/).
+1. Download the [latest version](https://1clickos.blogspot.com/).
 2. Follow the simple on-screen instructions for setup.
 3. Enjoy a smooth and efficient OS experience!
 
