@@ -11,7 +11,7 @@ Welcome to **1ClickOS**! This is a simple yet powerful project designed to provi
 
 ## Installation
 
-To install **1ClickOS**, follow these steps:
+To install **OS From 1 Click OS**, follow these steps:
 
 1. Download the [latest version of required OS](https://1clickos.blogspot.com/).
 2. Follow the simple on-screen instructions for setup.
