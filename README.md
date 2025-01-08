@@ -4,7 +4,7 @@ Welcome to **1ClickOS**! This is a simple yet powerful project designed to provi
 
 ## Features
 
-- **Easy Installation**: One-click installation process for a hassle-free setup.
+- **Easy Download**: One-click download process.
 - **User-Friendly**: Simplified interface that anyone can use.
 - **Compatibility**: Works on a wide range of devices and systems.
 - **Fast & Efficient**: Optimized for performance and speed.
