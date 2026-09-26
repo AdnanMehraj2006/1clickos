@@ -23,7 +23,7 @@ We welcome contributions! Feel free to fork the repository, submit issues, or cr
 
 ## Disclaimer
 
-The content provided on [1ClickOS](https://.1clickos.blogspot.com) is for informational purposes only. We do not host, own, or upload any files on this website. All files indexed or linked on this platform are freely available on the internet and are hosted by third-party websites.
+The content provided on [1ClickOS](https://1clickos.blogspot.com) is for informational purposes only. We do not host, own, or upload any files on this website. All files indexed or linked on this platform are freely available on the internet and are hosted by third-party websites.
 
 We do not claim ownership of any content, and we are not responsible for any copyright violations.
 
